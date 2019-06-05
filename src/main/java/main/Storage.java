@@ -1,6 +1,6 @@
 package main;
 
-import response.Business;
+import main.model.Business;
 
 import java.util.ArrayList;
 import java.util.HashMap;
